@@ -1,0 +1,65 @@
+Flutterkicks% Abs% Beginner% None% 0
+Crunch% Abs% Beginner% None% 1
+Russian Twist% Abs% Beginner% Medicine Ball% 2
+Situp% Abs% Beginner% None% 3
+Plank% Abs% Beginner% None% 4
+Bent Knee Push-up% Arms% Beginner% None% 5
+Triceps Pressdown% Arms% Beginner% Resistance Bands/Cables% 6
+Biceps Curl% Arms% Beginner% Dumbbells% 7
+Triceps Kickback% Arms% Beginner% Dumbbells% 8
+Tricep Extension% Arms% Beginner% Weight Machine% 9
+Reverse Fly% Back% Beginner% None% 10
+Lat Pulldown% Back% Beginner% Weight Machine% 11
+Row% Back% Beginner% Weight Machine% 12
+Chest Press% Chest% Beginner% Barbell% 13
+Cable Press% Chest% Beginner% Weight Machine% 14
+Calf Raise% Legs% Beginner% None% 15
+Bodyweight Squat% Legs% Beginner% None% 16
+Linear Jumps% Legs% Beginner% None% 17
+Step-up% Legs% Beginner% Box% 18
+Squat Jump% Legs% Beginner% None% 19
+Lunge% Legs% Beginner% None% 20
+Seated Leg Press% Legs% Beginner% Exercise Equipment% 21
+Reverse Ab Crunch% Abs% Experienced% None% 22
+Standing Trunk Rotation% Abs% Experienced% Resistance Bands/Cables% 23
+V-ups% Abs% Experienced% None% 24
+Side Plank% Abs% Experienced% None% 25
+Hammer Curl% Arms% Experienced% None% 26
+Push-up% Arms% Experienced% None% 27
+Shoulder Press% Arms% Experienced% None% 28
+Pull-ups% Arms% Experienced% Pull-up bar% 29
+Chin-ups% Arms% Experienced% Pull-up bar% 30
+Spider walk% Arms% Experienced% None% 31
+Plank up% Arms% Experienced% None% 32
+Shrug% Back% Experienced% Dumbbell% 33
+Single-arm Row% Back% Experienced% Dumbbell% 34
+Deadlift% Back% Experienced% Barbell% 35
+Chest Fly% Chest% Experienced% Dumbbell% 36
+Lying Pullovers% Chest% Experienced% Dumbbell% 37
+Side Lunge% Legs% Experienced% None% 38
+Glute Bridge% Legs% Experienced% None% 39
+Box jumps% Legs% Experienced% Box% 40
+Hamstrings curl% Legs% Experienced% Resistance Bands/Cables% 41
+Single Leg Squat% Legs% Experienced% None% 42
+Reverse Lunge% Legs% Experienced% None% 43
+Inchworms% Abs% Expert% None% 44
+Hanging Leg Raise% Abs% Expert% Pull-up Bar% 45
+L-sit% Abs% Expert% None% 46
+L-sit pull-up% Abs% Expert% Pull-up Bar% 47
+One-arm push-up% Arms% Expert% None% 48
+Diamond push-up% Arms% Expert% None% 49
+Inclined push-up% Arms% Expert% None% 50
+Superman push-up% Arms% Expert% None% 51
+Spiderman push-up% Arms% Expert% None% 52
+Bent-over Row% Back% Expert% Dumbbell% 53
+Halo% Back% Expert% Dumbbell% 54
+Reverse Fly% Back% Expert% Dumbbell% 55
+Dips% Chest% Expert% Pull-up Bar% 56
+Machine Press% Chest% Expert% Weight Machine% 57
+Machine Fly% Chest% Expert% Weight Machine% 58
+Back Squat% Legs% Expert% Barbell% 59
+Bulgarian Split Squat% Legs% Expert% Dumbbell% 60
+Barbell Jammers% Legs% Expert% Barbell% 61
+
+
+
